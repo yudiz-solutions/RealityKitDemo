@@ -1,0 +1,32 @@
+[
+  {
+    "libraryIdentifier" : "66e3a6ed00822133fca2c07f1257de77",
+    "format" : "audio",
+    "displayName" : "rocketBoosterSound.mp3"
+  },
+  {
+    "libraryIdentifier" : "5dcb29445798441dc16bd0031eaef196",
+    "format" : "audio",
+    "displayName" : "SpaceSoundSoft.mp3"
+  },
+  {
+    "libraryIdentifier" : "64d38809b2311e39b8719e9ba82f3b45",
+    "format" : "model",
+    "displayName" : "36d1b5fa-3778-484b-b089-dc5fb2231abe.usdz"
+  },
+  {
+    "libraryIdentifier" : "442e31e65178daf30d885544b3ce06b7",
+    "format" : "model",
+    "displayName" : "36d1b5fa-3778-484b-b089-dc5fb2231abe-2.usdz"
+  },
+  {
+    "libraryIdentifier" : "60013bd35d8afead3909551ac207f805",
+    "format" : "model",
+    "displayName" : "36d1b5fa-3778-484b-b089-dc5fb2231abe-2.usdz"
+  },
+  {
+    "libraryIdentifier" : "8f16e93733270290faa0f31a8f7bba39",
+    "format" : "model",
+    "displayName" : "36d1b5fa-3778-484b-b089-dc5fb2231abe-3.usdz"
+  }
+]
